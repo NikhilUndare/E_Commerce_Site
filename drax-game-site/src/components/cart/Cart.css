@@ -1,0 +1,60 @@
+.cart-title {
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+    border-bottom: 3px solid black;
+    padding: 10px;
+}
+
+.bill {
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
+
+/* .btn-cont {
+    text-align: center;
+    margin-top: 15px;
+} */
+
+/* .btn {
+    padding: 5px 10px;
+    border-radius: 3px;
+} */
+
+.content {
+    text-align: center;
+    padding: 5px;
+}
+
+.price {
+    margin-left: 10px;
+}
+
+.cart-cont {
+    display: flex;
+    justify-content: space-between;
+}
+
+.billing-cont-2{
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+.billing-cont-1{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.total {
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.btn-1 {
+    padding: 5px 15px;
+    border-radius: 3px;
+    margin-top: 20px;
+}
